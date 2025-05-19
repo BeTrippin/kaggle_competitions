@@ -14,4 +14,21 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print("hello world")
 
+    yellow_lim = 67
+    purple_lim = 55
+    blue_lim = 28
+    green_lim = 25
+
+    yellow = 16
+    purple = 66
+    blue = 336
+    green = 265
+
+
+
+
+
+    #aa = {}
+
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
